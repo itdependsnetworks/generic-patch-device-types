@@ -1,0 +1,402 @@
+---
+manufacturer: GENERIC PATCH
+model: NOC-24LC x4 MPO Cassette
+part_number: NOC-24LC-X4-MPO-Cassette
+front-ports:
+  - name: 'mpo1-1'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 1
+  - name: 'mpo1-2'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 2
+  - name: 'mpo1-3'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 3
+  - name: 'mpo1-4'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 4
+  - name: 'mpo1-5'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 5
+  - name: 'mpo1-6'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 6
+  - name: 'mpo1-7'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 7
+  - name: 'mpo1-8'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 8
+  - name: 'mpo1-9'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 9
+  - name: 'mpo1-10'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 10
+  - name: 'mpo1-11'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 11
+  - name: 'mpo1-12'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 12
+  - name: 'mpo1-13'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 13
+  - name: 'mpo1-14'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 14
+  - name: 'mpo1-15'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 15
+  - name: 'mpo1-16'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 16
+  - name: 'mpo1-17'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 17
+  - name: 'mpo1-18'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 18
+  - name: 'mpo1-19'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 19
+  - name: 'mpo1-20'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 20
+  - name: 'mpo1-21'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 21
+  - name: 'mpo1-22'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 22
+  - name: 'mpo1-23'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 23
+  - name: 'mpo1-24'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 24
+  - name: 'mpo2-1'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 1
+  - name: 'mpo2-2'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 2
+  - name: 'mpo2-3'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 3
+  - name: 'mpo2-4'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 4
+  - name: 'mpo2-5'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 5
+  - name: 'mpo2-6'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 6
+  - name: 'mpo2-7'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 7
+  - name: 'mpo2-8'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 8
+  - name: 'mpo2-9'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 9
+  - name: 'mpo2-10'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 10
+  - name: 'mpo2-11'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 11
+  - name: 'mpo2-12'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 12
+  - name: 'mpo2-13'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 13
+  - name: 'mpo2-14'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 14
+  - name: 'mpo2-15'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 15
+  - name: 'mpo2-16'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 16
+  - name: 'mpo2-17'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 17
+  - name: 'mpo2-18'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 18
+  - name: 'mpo2-19'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 19
+  - name: 'mpo2-20'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 20
+  - name: 'mpo2-21'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 21
+  - name: 'mpo2-22'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 22
+  - name: 'mpo2-23'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 23
+  - name: 'mpo2-24'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 24
+  - name: 'mpo3-1'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 1
+  - name: 'mpo3-2'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 2
+  - name: 'mpo3-3'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 3
+  - name: 'mpo3-4'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 4
+  - name: 'mpo3-5'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 5
+  - name: 'mpo3-6'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 6
+  - name: 'mpo3-7'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 7
+  - name: 'mpo3-8'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 8
+  - name: 'mpo3-9'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 9
+  - name: 'mpo3-10'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 10
+  - name: 'mpo3-11'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 11
+  - name: 'mpo3-12'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 12
+  - name: 'mpo3-13'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 13
+  - name: 'mpo3-14'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 14
+  - name: 'mpo3-15'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 15
+  - name: 'mpo3-16'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 16
+  - name: 'mpo3-17'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 17
+  - name: 'mpo3-18'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 18
+  - name: 'mpo3-19'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 19
+  - name: 'mpo3-20'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 20
+  - name: 'mpo3-21'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 21
+  - name: 'mpo3-22'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 22
+  - name: 'mpo3-23'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 23
+  - name: 'mpo3-24'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 24
+  - name: 'mpo4-1'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 1
+  - name: 'mpo4-2'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 2
+  - name: 'mpo4-3'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 3
+  - name: 'mpo4-4'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 4
+  - name: 'mpo4-5'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 5
+  - name: 'mpo4-6'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 6
+  - name: 'mpo4-7'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 7
+  - name: 'mpo4-8'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 8
+  - name: 'mpo4-9'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 9
+  - name: 'mpo4-10'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 10
+  - name: 'mpo4-11'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 11
+  - name: 'mpo4-12'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 12
+  - name: 'mpo4-13'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 13
+  - name: 'mpo4-14'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 14
+  - name: 'mpo4-15'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 15
+  - name: 'mpo4-16'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 16
+  - name: 'mpo4-17'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 17
+  - name: 'mpo4-18'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 18
+  - name: 'mpo4-19'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 19
+  - name: 'mpo4-20'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 20
+  - name: 'mpo4-21'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 21
+  - name: 'mpo4-22'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 22
+  - name: 'mpo4-23'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 23
+  - name: 'mpo4-24'
+    type: lc
+    rear_port: '1'
+    rear_port_position: 24
+rear-ports:
+  - name: 'mpo1'
+    type: mpo
+    positions: 24
+  - name: 'mpo2'
+    type: mpo
+    positions: 24
+  - name: 'mpo3'
+    type: mpo
+    positions: 24
+  - name: 'mpo4'
+    type: mpo
+    positions: 24
